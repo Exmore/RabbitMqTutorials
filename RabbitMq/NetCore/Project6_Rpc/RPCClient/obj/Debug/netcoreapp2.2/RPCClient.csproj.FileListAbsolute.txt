@@ -1,0 +1,11 @@
+D:\Projects\RabbitMq\RPCClient\bin\Debug\netcoreapp2.2\RPCClient.deps.json
+D:\Projects\RabbitMq\RPCClient\bin\Debug\netcoreapp2.2\RPCClient.runtimeconfig.json
+D:\Projects\RabbitMq\RPCClient\bin\Debug\netcoreapp2.2\RPCClient.runtimeconfig.dev.json
+D:\Projects\RabbitMq\RPCClient\bin\Debug\netcoreapp2.2\RPCClient.dll
+D:\Projects\RabbitMq\RPCClient\bin\Debug\netcoreapp2.2\RPCClient.pdb
+D:\Projects\RabbitMq\RPCClient\obj\Debug\netcoreapp2.2\RPCClient.csprojAssemblyReference.cache
+D:\Projects\RabbitMq\RPCClient\obj\Debug\netcoreapp2.2\RPCClient.csproj.CoreCompileInputs.cache
+D:\Projects\RabbitMq\RPCClient\obj\Debug\netcoreapp2.2\RPCClient.AssemblyInfoInputs.cache
+D:\Projects\RabbitMq\RPCClient\obj\Debug\netcoreapp2.2\RPCClient.AssemblyInfo.cs
+D:\Projects\RabbitMq\RPCClient\obj\Debug\netcoreapp2.2\RPCClient.dll
+D:\Projects\RabbitMq\RPCClient\obj\Debug\netcoreapp2.2\RPCClient.pdb

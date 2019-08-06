@@ -1,0 +1,11 @@
+D:\Projects\RabbitMq\EmitLogTopic\bin\Debug\netcoreapp2.2\EmitLogTopic.deps.json
+D:\Projects\RabbitMq\EmitLogTopic\bin\Debug\netcoreapp2.2\EmitLogTopic.runtimeconfig.json
+D:\Projects\RabbitMq\EmitLogTopic\bin\Debug\netcoreapp2.2\EmitLogTopic.runtimeconfig.dev.json
+D:\Projects\RabbitMq\EmitLogTopic\bin\Debug\netcoreapp2.2\EmitLogTopic.dll
+D:\Projects\RabbitMq\EmitLogTopic\bin\Debug\netcoreapp2.2\EmitLogTopic.pdb
+D:\Projects\RabbitMq\EmitLogTopic\obj\Debug\netcoreapp2.2\EmitLogTopic.csprojAssemblyReference.cache
+D:\Projects\RabbitMq\EmitLogTopic\obj\Debug\netcoreapp2.2\EmitLogTopic.csproj.CoreCompileInputs.cache
+D:\Projects\RabbitMq\EmitLogTopic\obj\Debug\netcoreapp2.2\EmitLogTopic.AssemblyInfoInputs.cache
+D:\Projects\RabbitMq\EmitLogTopic\obj\Debug\netcoreapp2.2\EmitLogTopic.AssemblyInfo.cs
+D:\Projects\RabbitMq\EmitLogTopic\obj\Debug\netcoreapp2.2\EmitLogTopic.dll
+D:\Projects\RabbitMq\EmitLogTopic\obj\Debug\netcoreapp2.2\EmitLogTopic.pdb

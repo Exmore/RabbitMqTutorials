@@ -1,0 +1,11 @@
+D:\Projects\RabbitMq\ReceiveLogsDirect\bin\Debug\netcoreapp2.2\ReceiveLogsDirect.deps.json
+D:\Projects\RabbitMq\ReceiveLogsDirect\bin\Debug\netcoreapp2.2\ReceiveLogsDirect.runtimeconfig.json
+D:\Projects\RabbitMq\ReceiveLogsDirect\bin\Debug\netcoreapp2.2\ReceiveLogsDirect.runtimeconfig.dev.json
+D:\Projects\RabbitMq\ReceiveLogsDirect\bin\Debug\netcoreapp2.2\ReceiveLogsDirect.dll
+D:\Projects\RabbitMq\ReceiveLogsDirect\bin\Debug\netcoreapp2.2\ReceiveLogsDirect.pdb
+D:\Projects\RabbitMq\ReceiveLogsDirect\obj\Debug\netcoreapp2.2\ReceiveLogsDirect.csprojAssemblyReference.cache
+D:\Projects\RabbitMq\ReceiveLogsDirect\obj\Debug\netcoreapp2.2\ReceiveLogsDirect.csproj.CoreCompileInputs.cache
+D:\Projects\RabbitMq\ReceiveLogsDirect\obj\Debug\netcoreapp2.2\ReceiveLogsDirect.AssemblyInfoInputs.cache
+D:\Projects\RabbitMq\ReceiveLogsDirect\obj\Debug\netcoreapp2.2\ReceiveLogsDirect.AssemblyInfo.cs
+D:\Projects\RabbitMq\ReceiveLogsDirect\obj\Debug\netcoreapp2.2\ReceiveLogsDirect.dll
+D:\Projects\RabbitMq\ReceiveLogsDirect\obj\Debug\netcoreapp2.2\ReceiveLogsDirect.pdb

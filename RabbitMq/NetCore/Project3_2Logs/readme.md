@@ -1,0 +1,1 @@
+пример для записи логов в файл dotnet run > logs_from_rabbit.log
